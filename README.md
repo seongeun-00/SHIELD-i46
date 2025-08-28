@@ -6,7 +6,7 @@ This repository contains network traffic datasets collected by **i46** as part o
 The dataset supports research and development of advanced Intrusion Prevention System (IPS) models by providing representative samples of both **malicious** and **benign** network traffic.
 
 ## Dataset Overview
-The dataset includes various attack scenarios and normal network operations captured in **PCAP format**:
+This dataset consists of **PCAP** files capturing both benign network traffic and diverse attack scenarios. Filenames are suffixed with a sequence number (e.g., the n-th capture), which denotes the recording order. Note that consecutive captures may originate from different collection sessions or dates.
 
 | File Name                  | Description |
 |----------------------------|-------------|
